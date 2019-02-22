@@ -28,3 +28,6 @@ Effects that could be applied to the audio may include:
 ### Save And Share
 Save edited files to your phone, __google drive__ or send them via email, messages, whatsapp. 
 
+![](Mock_AFX3.jpg)
+
+![](mock_AFX4.gif)
